@@ -1,0 +1,10 @@
+name: flutter_color_picker
+description: A color picker for flutter
+version: 0.0.1
+authors:
+- Hadrien Lejard <hadrien.lejard@gmail.com>
+homepage: https://github.com/dart-flitter/flutter_color_picker
+
+dependencies:
+  flutter:
+    sdk: flutter
