@@ -1,7 +1,7 @@
 library flutter_color_picker;
 
 import 'package:flutter/material.dart';
-import 'package:meta/meta.dart';
+import 'package:flutter/foundation.dart';
 
 class ColorTile extends StatelessWidget {
   final Color color;
