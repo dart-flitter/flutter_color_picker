@@ -4,6 +4,8 @@ version: 0.0.1
 authors:
 - Hadrien Lejard <hadrien.lejard@gmail.com>
 homepage: https://github.com/dart-flitter/flutter_color_picker
+environment:
+  sdk: '>=1.0.0 <3.0.0'
 
 dependencies:
   flutter:
